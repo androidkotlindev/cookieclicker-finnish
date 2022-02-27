@@ -1,19 +1,19 @@
-AddLanguage('EN','english',{
+AddLanguage('FI','finnish',{
 	"": {
-		"language": "en",
+		"language": "fi",
 		"plural-forms": "nplurals=2;plural=(n!=1);"
 	},
-	"cookie": "/",
+	"cookie": "keksi",
 	"sugar lump": "/",
 	"heavenly chip": "/",
 	"wrinkler": "/",
-	"building": "/",
-	"upgrade": "/",
-	"golden cookie": "/",
+	"building": "rakennus",
+	"upgrade": "päivitys",
+	"golden cookie": "kultainen keksi",
 	"grandmapocalypse": "/",
 	"%1 cookie": [
-		"%1 cookie",
-		"%1 cookies"
+		"%1 keksi",
+		"%1 keksiä"
 	],
 	"%1 sugar lump": [
 		"%1 sugar lump",
@@ -24,32 +24,32 @@ AddLanguage('EN','english',{
 		"%1 heavenly chips"
 	],
 	"%1 golden cookie": [
-		"%1 golden cookie",
-		"%1 golden cookies"
+		"%1 kultainen keksi",
+		"%1 kultaista keksiä"
 	],
 	"%1 building": [
-		"%1 building",
-		"%1 buildings"
+		"%1 rakennus",
+		"%1 rakennusta"
 	],
 	"%1 upgrade": [
-		"%1 upgrade",
-		"%1 upgrades"
+		"%1 päivitys",
+		"%1 päivitystä"
 	],
-	"Yes": "/",
-	"No": "/",
+	"Yes": "Kyllä",
+	"No": "Ei",
 	"Click here": "/",
 	"Don't show this again": "/",
 	"Delete all": "/",
-	"Back": "/",
-	"Confirm": "/",
+	"Back": "Takaisin",
+	"Confirm": "Vahvista",
 	"All done!": "/",
-	"Load": "/",
-	"Save": "/",
-	"Quit": "/",
-	"Save & Quit": "/",
-	"Cancel": "/",
+	"Load": "Lataa",
+	"Save": "Tallenna",
+	"Quit": "Poistu",
+	"Save & Quit": "Tallenna & Poistu",
+	"Cancel": "Peruuta",
 	"Nevermind": "/",
-	"Random": "/",
+	"Random": "Satunnainen",
 	"You have %1.": "/",
 	"Click": "/",
 	"Shift": "/",
@@ -59,20 +59,20 @@ AddLanguage('EN','english',{
 	"Esc": "/",
 	"Cookies": "/",
 	"%1 day": [
-		"%1 day",
-		"%1 days"
+		"%1 päivä",
+		"%1 päivää"
 	],
 	"%1 hour": [
-		"%1 hour",
-		"%1 hours"
+		"%1 tunti",
+		"%1 tuntia"
 	],
 	"%1 minute": [
-		"%1 minute",
-		"%1 minutes"
+		"%1 minuutti",
+		"%1 minuuttia"
 	],
 	"%1 second": [
-		"%1 second",
-		"%1 seconds"
+		"%1 sekunti",
+		"%1 sekuntia"
 	],
 	"less than 1 second": "/",
 	"in %1": "/",
