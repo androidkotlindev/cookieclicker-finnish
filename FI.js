@@ -968,7 +968,7 @@ AddLanguage('FI','finnish',{
 	"You can also press %1 to bulk-buy or sell %2 of a building at a time, or %3 for %4.": "/",
 	"Investment": "/",
 	"You're not sure what this does, you just know it means profit.": "/",
-	"Cursor": "/",
+	"Cursor": "Kursori",
 	"cursor": "/",
 	"cursors": "/",
 	"%1 cursor": [
@@ -978,7 +978,7 @@ AddLanguage('FI','finnish',{
 	"[Cursor quote]Autoclicks once every 10 seconds.": "Autoclicks once every 10 seconds.",
 	"[Cursor business name]Rolling pin": "Rolling pin",
 	"[Cursor business quote]Essential in flattening dough. The first step in cookie-making.": "Essential in flattening dough. The first step in cookie-making.",
-	"Grandma": "/",
+	"Grandma": "Isoäiti",
 	"grandma": "/",
 	"grandmas": "/",
 	"%1 grandma": [
@@ -988,7 +988,7 @@ AddLanguage('FI','finnish',{
 	"[Grandma quote]A nice grandma to bake more cookies.": "A nice grandma to bake more cookies.",
 	"[Grandma business name]Oven": "Oven",
 	"[Grandma business quote]A crucial element of baking cookies.": "A crucial element of baking cookies.",
-	"Farm": "/",
+	"Farm": "Farmi",
 	"farm": "/",
 	"farms": "/",
 	"%1 farm": [
@@ -998,7 +998,7 @@ AddLanguage('FI','finnish',{
 	"[Farm quote]Grows cookie plants from cookie seeds.": "Grows cookie plants from cookie seeds.",
 	"[Farm business name]Kitchen": "Kitchen",
 	"[Farm business quote]The more kitchens, the more cookies your employees can produce.": "The more kitchens, the more cookies your employees can produce.",
-	"Mine": "/",
+	"Mine": "Kaivos",
 	"mine": "/",
 	"mines": "/",
 	"%1 mine": [
@@ -1008,7 +1008,7 @@ AddLanguage('FI','finnish',{
 	"[Mine quote]Mines out cookie dough and chocolate chips.": "Mines out cookie dough and chocolate chips.",
 	"[Mine business name]Secret recipe": "Secret recipe",
 	"[Mine business quote]These give you the edge you need to outsell those pesky competitors.": "These give you the edge you need to outsell those pesky competitors.",
-	"Factory": "/",
+	"Factory": "Tehdas",
 	"factory": "/",
 	"factories": "/",
 	"%1 factory": [
@@ -1018,7 +1018,7 @@ AddLanguage('FI','finnish',{
 	"[Factory quote]Produces large quantities of cookies.": "Produces large quantities of cookies.",
 	"[Factory business name]Factory": "Factory",
 	"[Factory business quote]Mass production is the future of baking. Seize the day, and synergize!": "Mass production is the future of baking. Seize the day, and synergize!",
-	"Bank": "/",
+	"Bank": "Pankki",
 	"bank": "/",
 	"banks": "/",
 	"%1 bank": [
@@ -1028,7 +1028,7 @@ AddLanguage('FI','finnish',{
 	"[Bank quote]Generates cookies from interest.": "Generates cookies from interest.",
 	"[Bank business name]Investor": "Investor",
 	"[Bank business quote]Business folks with a nose for profit, ready to finance your venture as long as there's money to be made.": "Business folks with a nose for profit, ready to finance your venture as long as there's money to be made.",
-	"Temple": "/",
+	"Temple": "Temppeli",
 	"temple": "/",
 	"temples": "/",
 	"%1 temple": [
@@ -1068,7 +1068,7 @@ AddLanguage('FI','finnish',{
 	"[Alchemy lab quote]Turns gold into cookies!": "Turns gold into cookies!",
 	"[Alchemy lab business name]Stock share": "Stock share",
 	"[Alchemy lab business quote]You're officially on the stock market, and everyone wants a piece!": "You're officially on the stock market, and everyone wants a piece!",
-	"Portal": "/",
+	"Portal": "Portaali",
 	"portal": "/",
 	"portals": "/",
 	"%1 portal": [
@@ -1078,7 +1078,7 @@ AddLanguage('FI','finnish',{
 	"[Portal quote]Opens a door to the Cookieverse.": "Opens a door to the Cookieverse.",
 	"[Portal business name]TV show": "TV show",
 	"[Portal business quote]Your cookies have their own sitcom! Hilarious baking hijinks set to the cheesiest laughtrack.": "Your cookies have their own sitcom! Hilarious baking hijinks set to the cheesiest laughtrack.",
-	"Time machine": "/",
+	"Time machine": "Aikakone",
 	"time machine": "/",
 	"time machines": "/",
 	"%1 time machine": [
@@ -1128,7 +1128,7 @@ AddLanguage('FI','finnish',{
 	"[Fractal engine quote]Turns cookies into even more cookies.": "Turns cookies into even more cookies.",
 	"[Fractal engine business name]Senate seat": "Senate seat",
 	"[Fractal engine business quote]Only through political dominion can you truly alter this world to create a brighter, more cookie-friendly future.": "Only through political dominion can you truly alter this world to create a brighter, more cookie-friendly future.",
-	"Javascript console": "/",
+	"Javascript console": "Javascript-konsoli",
 	"javascript console": "/",
 	"javascript consoles": "/",
 	"%1 javascript console": [
