@@ -12,5 +12,5 @@ ar Langs={
 	'ZH-CN':{file:'ZH-CN',nameEN:'Chinese',name:'&#x4E2D;&#x6587;',changeLanguage:'&#35821;&#35328;',icon:0,w:1.5},
 	'KO':{file:'KO',nameEN:'Korean',name:'&#xD55C;&#xAE00;',changeLanguage:'&#xC5B8;&#xC5B4;',icon:0,w:1.5},
 	'RU':{file:'RU',nameEN:'Russian',name:'&#x420;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;',changeLanguage:'&#1071;&#1079;&#1099;&#1082;',icon:0,w:1.2},
-  'FI':{file:'FI',nameEN:'Finnish',name:'Suomi',changeLanguage:'Kieli',icon:0,w:1},
+	'FI':{file:'FI',nameEN:'Finnish',name:'Suomi',changeLanguage:'Kieli',icon:0,w:1},
 };
